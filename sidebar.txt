@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ruf:home|Door43 (ruf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ruf|d43-ruf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ruf/archive/master.zip|d43-ruf.zip]]
+
+**Recent Changes**
+{{changes>ns = ruf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ruf|Ethnologue data]]
+
